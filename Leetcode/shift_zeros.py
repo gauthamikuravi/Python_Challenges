@@ -18,7 +18,7 @@
 ###########################################
 # ran the loop through reverse order
 # swap the elements in the same position until the first zero element was found
-#if the elements has non zero it swap the index
+
 
 class Solution:
     def shiftposition(self, nums):
